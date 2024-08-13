@@ -1,0 +1,38 @@
+*{
+    margin: 3% 4% 3% 4%;
+    font-family: sans-serif;
+}
+
+header ul li{
+    padding-left: 10%;
+    padding: 0 15px;
+}
+
+.display-style {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.list-type {
+    list-style: none;
+}
+
+@media only screen and (max-width: 600px) {
+
+    header {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .contact-and-social-link{
+        flex-direction: column;
+        text-align: center;
+    }
+
+
+}
+
+a{
+    text-decoration: none;
+}
