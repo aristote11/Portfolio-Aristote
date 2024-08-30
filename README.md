@@ -1,1 +1,1 @@
-# Portfolio-Aristote
+# Portfolio-Aristote (Responsive)
